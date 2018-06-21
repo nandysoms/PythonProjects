@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GithubRepository.iml" filepath="$PROJECT_DIR$/.idea/GithubRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyRepository.iml" filepath="$PROJECT_DIR$/.idea/PyRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnZipper/.idea/UnZipper.iml" filepath="$PROJECT_DIR$/UnZipper/.idea/UnZipper.iml" />
     </modules>
   </component>
 </project>
