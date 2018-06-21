@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/BeginnersExcercises/.idea/BeginnersExcercises.iml" filepath="$USER_HOME$/PycharmProjects/BeginnersExcercises/.idea/BeginnersExcercises.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/FileDownload/.idea/FileDownload.iml" filepath="$USER_HOME$/PycharmProjects/FileDownload/.idea/FileDownload.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/FrequencyCounter/.idea/FrequencyCounter.iml" filepath="$USER_HOME$/PycharmProjects/FrequencyCounter/.idea/FrequencyCounter.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MyFirstPython/.idea/MyFirstPython.iml" filepath="$USER_HOME$/PycharmProjects/MyFirstPython/.idea/MyFirstPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjectsWebCrawler.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjectsWebCrawler.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/flask-master/.idea/flask-master.iml" filepath="$USER_HOME$/PycharmProjects/flask-master/.idea/flask-master.iml" />
+    </modules>
+  </component>
+</project>

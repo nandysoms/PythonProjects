@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (MyFirstPython) (1)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="FileDownload" />
+    <orderEntry type="module" module-name="MyFirstPython" />
+    <orderEntry type="module" module-name="FrequencyCounter" />
+    <orderEntry type="module" module-name="BeginnersExcercises" />
+    <orderEntry type="module" module-name="flask-master" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
